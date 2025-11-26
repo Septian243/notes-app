@@ -19,7 +19,7 @@ Struktur proyek dibangun secara modular, mencakup komponen UI (header, form, daf
 
 ### Installation
 
-1. Download starter project [di sini](https://codeload.github.com/Septian243/storymapapp/zip/refs/heads/main).
+1. Download starter project [di sini](https://codeload.github.com/Septian243/notes-app/zip/refs/heads/main).
 2. Lakukan unzip file.
 3. Pasang seluruh dependencies dengan perintah berikut.
 
